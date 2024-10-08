@@ -1,0 +1,15 @@
+.blbutton,
+.ylbutton {
+    font-size: 28px;
+    font-family: "Helvetica" "Times New Roman" sans-serif;
+}
+
+.blbutton {
+    color: white;
+    background-color: black;
+}
+
+.ylbutton {
+    background-color: yellow;
+}
+
